@@ -11,7 +11,7 @@
 ## How-To Download
 
 The easiest way to grab builds of Proxmox projects is using the official ISO, available on the
-(official web site](https://proxmox.com/en/downloads) or [through our CDN](https://enterprise.proxmox.com/iso/).
+[official web site](https://proxmox.com/en/downloads) or [through our CDN](https://enterprise.proxmox.com/iso/).
 
 ## How-To Contribute
 

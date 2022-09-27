@@ -32,6 +32,15 @@ Proxmox maintains a [Bugzilla instance](https://bugzilla.proxmox.com/) for bug r
 Please make sure you have a clear, reproducible problem before submitting a request there.
 For setup or configuration questions and issues, we recommend using the support channels (see above) first.
 
+## How-To Report Security Issues
+
+Proxmox Server Solutions takes security seriously.
+As such, we'd like to know when a security bug is found so that it can be fixed and disclosed in a timely manner.
+
+Please report security bugs to the Proxmox security team by email at <[security@proxmox.com](mailto:security@proxmox.com)>.
+
+More details and a public GPG key for encrypting highly confidential reports can be found in our [Security Policy](https://pve.proxmox.com/wiki/Security_Reporting).
+
 ## Documentation
 
 Each Proxmox project comes with its documentation. You can access this via the `Documentation` button at the top right of the web interface.

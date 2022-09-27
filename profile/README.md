@@ -51,7 +51,7 @@ Proxmox Server Solutions GmbH also maintains a public mirror of the documentatio
 * Proxmox Backup Server: https://pbs.proxmox.com/docs/
 * Proxmox Mail Gateway: https://pmg.proxmox.com/pmg-docs/
 
-## Code License
+## Code License & Trademark
 
 Proxmox projects are 100% Open Source, most of the project is released under the
 [GNU Affero General Public License, version 3](https://www.gnu.org/licenses/agpl-3.0.html) or similar,

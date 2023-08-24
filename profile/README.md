@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://proxmox.com">
-    <img width="800" src="https://raw.githubusercontent.com/proxmox/.github/main/Proxmox-logo-800.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proxmox/.github/main/Proxmox-logo-800-white.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proxmox/.github/main/Proxmox-logo-800.svg">
+      <img alt="Proxmox Logo" src="https://raw.githubusercontent.com/proxmox/.github/main/Proxmox-logo-800.svg">
+    </picture>
   </a>
 </p>
 

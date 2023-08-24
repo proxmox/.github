@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://proxmox.com">
+  <a href="https://www.proxmox.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proxmox/.github/main/Proxmox-logo-800-white.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proxmox/.github/main/Proxmox-logo-800.svg">
@@ -11,6 +11,10 @@
 <h1 align="center">Open Source Server Solutions</h1>
 
 **Note**: Read-only source code mirror of most Proxmox Open Source projects. Check https://git.proxmox.com/ for the full list of official repositories.
+
+## About
+
+See our main website for information about Proxmox projects and their features, services such as enterprise support, training and our partner network: https://www.proxmox.com/
 
 ## How-To Download
 

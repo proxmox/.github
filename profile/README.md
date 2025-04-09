@@ -70,5 +70,5 @@ You may use our logo exclusively to promote Proxmox products and services.
 You may not change any logo except to scale it. If unsure, please [contact us](https://www.proxmox.com/en/about/contact) first.
 
 Development and maintenance of the Proxmox infrastructure requires a great deal of effort, which Proxmox Server Solutions GmbH
-can support thanks to the many commercial, but also private supporters buying Proxmox subscribtions for enterprise support
+can support thanks to the many commercial, but also private supporters buying Proxmox subscriptions for enterprise support
 and/or enterprise-grade update repositories.
